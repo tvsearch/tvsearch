@@ -26,3 +26,6 @@ https://t.me/wtvtools_bot
 
 软件下载（仅支持win10+ , 64 位操作系统）
 https://github.com/tvsearch/tvsearch/releases
+
+大佬站点收藏
+https://github.com/tvsearch/tvsearch/wiki/relation_iptv
