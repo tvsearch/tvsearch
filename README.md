@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 搜源指南（搜索各类直播源）
 https://github.com/tvsearch/tvsearch/wiki
 
-tg交流
+tg交流&搜索直播源
 https://t.me/+h88GvU-jd6c3MjE1
-
-直播源搜索机器人
-https://t.me/wtvtools_bot
 
 软件下载（仅支持win10+ , 64 位操作系统）
 https://github.com/tvsearch/tvsearch/releases
